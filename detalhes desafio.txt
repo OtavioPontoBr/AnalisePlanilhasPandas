@@ -6,3 +6,5 @@ EX: Cliente 1
     valor total de vendas = soma de cada venda do cliente 1.
 
 2) criar uma automação para envio de email com python para cada cliete do sumario 
+
+3)Subir para o git
